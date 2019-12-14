@@ -1,4 +1,3 @@
-The complete web developer bootcamp
 Angela Yu's Complete Web Development Bootcamp 2019
 
 The complete web development bootcamp was created by Angela Yu.
